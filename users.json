@@ -1,0 +1,6 @@
+{"users":[
+   { "user":"HerculanoSampaio", "passwd":"xpto", "nonce":""},
+   { "user":"Alice", "passwd":"qwerty", "nonce":"" },
+   { "user":"Bob", "passwd":"hello", "nonce":""},
+   { "user":"Carol", "passwd":"bomdia", "nonce":""}
+]}
